@@ -63,7 +63,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
 ## Start Environment
 
-- In a terminal, make sure you are inside the `springboot-react-jwt-token` root folder;
+- In a terminal, make sure you are inside the `secureorder-platform` root folder;
 
 - Run the following command to start Docker Compose containers:
   ```bash
@@ -99,7 +99,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
 - **order-api**
 
-  - Open a terminal and navigate to the `springboot-react-jwt-token/order-api` folder;
+  - Open a terminal and navigate to the `secureorder-paltform/order-api` folder;
 
   - Run all tests:
     ```bash
@@ -108,7 +108,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
 - **order-ui**
 
-  - Open a terminal and navigate to the `springboot-react-jwt-token/order-ui` folder;
+  - Open a terminal and navigate to the `secureorder-platform/order-ui` folder;
 
   - Run all tests:
     ```bash
@@ -238,7 +238,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
 - **Automatic Endpoints Test**
 
-  - Open a terminal and make sure you are in the `springboot-react-jwt-token` root folder;
+  - Open a terminal and make sure you are in the `secureorder-platform` root folder;
 
   - Run the following script:
     ```bash
@@ -304,7 +304,7 @@ On [ivangfr.github.io](https://ivangfr.github.io), I have compiled my Proof-of-C
 
 ## How to upgrade order-ui dependencies to latest version
 
-- In a terminal, make sure you are in the `springboot-react-jwt-token/order-ui` folder;
+- In a terminal, make sure you are in the `secureorder-platform/order-ui` folder;
 
 - Run the following commands:
   ```bash
